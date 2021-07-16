@@ -1,0 +1,30 @@
+.navbar:before{
+	content: "";
+	position: absolute;
+	top: 0%;
+	bottom: 0%;
+	left: 0%;
+	right: 0%;
+	opacity: .4;
+	z-index: -1;
+	background: linear-gradient(to right,#1e5799 0%, #3ccdbb 0%, #16c9f6 100%);
+}
+
+.nav-item a{
+	color: #fff!important;
+	font-weight: bold;
+}
+
+
+.header:before{
+	content: "";
+	position: absolute;
+	top: 0%;
+	bottom: 0%;
+	left: 0%;
+	right: 0%;
+	opacity: .4;
+	z-index: -1;
+	background: linear-gradient(to right,#1e5799 0%, #3ccdbb 0%, #16c9f6 100%);
+}
+
